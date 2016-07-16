@@ -1,5 +1,6 @@
 # Capstone project (Money Ball-Data science and machine learning in R-Jose Portilla-Udemy)
 # 16-07-2016
+# data can be obtained from the course
 
 package_vec <- c("dplyr", "ggplot2")
 lapplypackage_vec(package_vec, require, character.only = TRUE)
